@@ -1,0 +1,50 @@
+patch:
+  "menu/page_size": 6
+  schema_list:  # 對於列表類型，現在無有辦法指定如何添加、消除或單一修改某項，於是要在定製檔中將整個列表替換！
+    - schema: luna_pinyin
+    - schema: luna_pinyin_simp
+      # - schema: rime_ice
+  #实现英文输入，既中文混输，下文词库扩充还有介绍
+  # 加载 easy_en 依赖
+  "schema/dependencies/@next": easy_en
+  # 载入翻译英文的码表翻译器，取名为 english
+  "engine/translators/@next":  table_translator@english
+  # english 翻译器的设定项
+  english:
+    dictionary: easy_en
+    spelling_hints: 9
+    enable_completion: true
+    enable_sentence: false
+    initial_quality: -1
+  
+  # 开启自动造词相关设置
+  translator/enable_sentence: true          # 关闭句子输入
+  translator/enable_user_dict: true         # 是否开启用户词典（记录词频，用户词）
+  translator/enable_encoder: true           # 自动造词
+  translator/encode_commit_history: true     # 是否对已上屏的词自动造词
+
+
+  punctuator:
+    import_preset: symbols
+    half_shape:
+      "#": "#"
+      "`": "`"
+      "~": "~"
+      "@": "@"
+      "=": "="
+      "/": ["/", "÷"]
+      '\': ["、", '\']
+      "'": {pair: ["「", "」"]}
+      "[": ["【", "["]
+      "]": ["】", "]"]
+      "$": ["¥", "$", "€", "£", "¢", "¤"]
+      "<": ["《", "〈", "«", "<"]
+      ">": ["》", "〉", "»", ">"]
+  
+  ascii_composer:
+    switch_key:
+      Shift_R: commit_code # 按左 shift 键，已输入字符上屏，同时切换为英文输入
+      Shift_L: inline_ascii # 按右 shift 键，切换为英文输入，同时保留已输入字符继续输入，回车上屏
+      # Control_L: noop # noop 指无操作
+      # Control_R: noop
+      # Caps_Lock: commit_code  # 按大小写切换键，清除已输入字符，同时切换为英文输入

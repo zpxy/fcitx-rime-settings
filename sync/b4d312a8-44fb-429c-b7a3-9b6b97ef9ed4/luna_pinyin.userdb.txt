@@ -1,0 +1,842 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	1909
+#@/user_id	b4d312a8-44fb-429c-b7a3-9b6b97ef9ed4
+a 	啊	c=7 d=1.11359 t=1909
+a si 	阿斯	c=0 d=0.0491644 t=1909
+an 	按	c=1 d=0.380983 t=1909
+an ji du 	按季度	c=1 d=0.382893 t=1909
+an zhuang 	安裝	c=19 d=4.06539 t=1909
+ao 	奧	c=1 d=0.38868 t=1909
+ba 	吧	c=2 d=0.96191 t=1909
+ba 	把	c=2 d=0.802519 t=1909
+ban 	版	c=2 d=0.612626 t=1909
+ban 	辦	c=1 d=0.909373 t=1909
+ban ben 	版本	c=2 d=0.631284 t=1909
+ban bu cheng 	辦不成	c=1 d=0.932394 t=1909
+ban fa 	辦法	c=2 d=0.666977 t=1909
+bang ni 	幫你	c=1 d=0.99005 t=1909
+bang wo 	幫我	c=3 d=0.748264 t=1909
+bao 	包	c=1 d=0.822835 t=1909
+bao cuo 	報錯	c=2 d=0.174343 t=1909
+bei 	倍	c=1 d=0.839457 t=1909
+bi fang 	必放	c=1 d=0.264477 t=1909
+bi jiao 	比較	c=2 d=0.524663 t=1909
+bi li bi li 	嗶哩嗶哩	c=1 d=0.0502874 t=1909
+bi ye 	畢業	c=1 d=0.697676 t=1909
+bi zhi 	壁紙	c=2 d=1.05222 t=1909
+bian cheng 	變成	c=1 d=0.579842 t=1909
+bian hao 	編號	c=1 d=0.228779 t=1909
+bian liang 	變量	c=2 d=0.578281 t=1909
+bian yi 	編譯	c=2 d=0.171418 t=1909
+biao 	標	c=1 d=0.579842 t=1909
+biao da 	表達	c=2 d=0.12694 t=1909
+biao da shi 	表達式	c=7 d=3.05186 t=1909
+biao ge 	表格	c=1 d=0.565525 t=1909
+biao ti 	標題	c=3 d=0.17321 t=1909
+bing 	並	c=5 d=1.34663 t=1909
+bing qie 	並且	c=3 d=0.891401 t=1909
+bo 	博	c=2 d=0.388075 t=1909
+bo shi 	博士	c=1 d=0.481909 t=1909
+bu 	不	c=5 d=1.32234 t=1909
+bu cuo 	不錯	c=5 d=1.14083 t=1909
+bu dou shi 	不都是	c=1 d=0.941765 t=1909
+bu guo 	不過	c=2 d=1.12121 t=1909
+bu neng 	不能	c=1 d=0.88692 t=1909
+bu qu 	不去	c=1 d=0.683861 t=1909
+bu shi 	不是	c=2 d=0.722527 t=1909
+bu tong 	不同	c=6 d=3.92392 t=1909
+bu yao 	不要	c=3 d=0.91768 t=1909
+bu yi yang 	不一樣	c=1 d=0.0468877 t=1909
+bu zhi dao 	不知道	c=5 d=1.18417 t=1909
+ca se 	擦色	c=1 d=0.900325 t=1909
+ca se ni 	擦色你	c=1 d=0.489192 t=1909
+ca shi 	擦拭	c=0 d=0.140597 t=1909
+ca shi dian nao 	擦拭電腦	c=1 d=0.715338 t=1909
+cai 	才	c=2 d=1.07214 t=1909
+cai dan 	菜單	c=1 d=0.496585 t=1909
+cai neng 	才能	c=2 d=0.667151 t=1909
+cai yong 	採用	c=1 d=0.179964 t=1909
+can jia 	參加	c=3 d=0.443624 t=1909
+can shu 	參數	c=3 d=1.01918 t=1909
+ce shi 	測試	c=2 d=1.65959 t=1909
+cha kan 	查看	c=2 d=0.172161 t=1909
+chan pin 	產品	c=1 d=0.238115 t=1909
+chang 	長	c=3 d=1.17912 t=1909
+chang du 	長度	c=1 d=0.585669 t=1909
+chang yong 	常用	c=2 d=0.960789 t=1909
+cheng 	成	c=2 d=0.474734 t=1909
+cheng du 	程度	c=2 d=0.973554 t=1909
+cheng hao 	乘號	c=1 d=0.207008 t=1909
+cheng li 	成立	c=1 d=0.225373 t=1909
+cheng xu 	程序	c=2 d=1.51143 t=1909
+chi 	喫	c=1 d=0.985112 t=1909
+chong 	衝	c=1 d=0.110803 t=1909
+chong lai 	重來	c=1 d=0.603506 t=1909
+chong xin 	重新	c=1 d=0.582748 t=1909
+chong zhuang 	重裝	c=1 d=0.752014 t=1909
+chu cuo 	出錯	c=1 d=0.103312 t=1909
+chu hao 	初號	c=1 d=0.56836 t=1909
+chu le 	除了	c=1 d=0.852144 t=1909
+chu li 	處理	c=1 d=0.218712 t=1909
+chu li qi 	處理器	c=1 d=0.251579 t=1909
+chuan 	串	c=2 d=1.14445 t=1909
+chuan di 	傳遞	c=1 d=0.453845 t=1909
+chun jing 	純淨	c=1 d=0.104874 t=1909
+ci ku 	詞庫	c=2 d=1.60271 t=1909
+cong 	從	c=5 d=0.763933 t=1909
+cu 	粗	c=1 d=0.927743 t=1909
+cun chu qi 	存儲器	c=1 d=0.173774 t=1909
+cuo 	錯	c=2 d=0.722527 t=1909
+cuo wu 	錯誤	c=1 d=0.0925506 t=1909
+da an 	答案	c=0 d=0.0847894 t=1909
+da fa 	打法	c=1 d=0.802519 t=1909
+da ka 	打卡	c=1 d=0.955997 t=1909
+da ming xing 	大明星	c=1 d=0.918512 t=1909
+da xiao 	大小	c=1 d=0.353455 t=1909
+da xue 	大學	c=8 d=2.9155 t=1909
+da yin 	打印	c=9 d=2.30503 t=1909
+dai 	帶	c=2 d=0.230075 t=1909
+dai ma 	代碼	c=3 d=1.21122 t=1909
+dai ti 	代替	c=1 d=0.88692 t=1909
+dan du 	單獨	c=1 d=0.822835 t=1909
+dan shi 	但是	c=2 d=0.860708 t=1909
+dan wei 	單位	c=2 d=0.877571 t=1909
+dang shi 	當時	c=1 d=0.131994 t=1909
+dao 	到	c=1 d=0.0968105 t=1909
+dao shi 	到時	c=1 d=0.32628 t=1909
+dao shi 	導師	c=3 d=1.17737 t=1909
+de 	地	c=1 d=0.245367 t=1909
+de 	的	c=96 d=13.7228 t=1909
+de tian du hou 	得天獨厚	c=1 d=0.752014 t=1909
+de wen 	德文	c=1 d=0.463013 t=1909
+dei 	得	c=1 d=0.918512 t=1909
+deng 	等	c=1 d=0.548812 t=1909
+di gui 	遞歸	c=1 d=0.183599 t=1909
+di mi 	低迷	c=1 d=0.382893 t=1909
+di qu 	地區	c=0 d=0.0369723 t=1909
+di si ni 	迪斯尼	c=1 d=0.484325 t=1909
+di yi zhou 	第一週	c=1 d=0.618783 t=1909
+di zhi 	地址	c=4 d=0.657862 t=1909
+dian 	點	c=5 d=1.34104 t=1909
+dian nao 	電腦	c=1 d=0.071177 t=1909
+diao cha xian shi 	調查顯示	c=0 d=0.0240508 t=1909
+din yi 	𨈖一	c=1 d=0.418952 t=1909
+ding 	定	c=1 d=0.421052 t=1909
+ding yi 	定義	c=5 d=1.09736 t=1909
+ding zhi 	定製	c=3 d=1.62037 t=1909
+dong xi 	東西	c=0 d=0.0366045 t=1909
+dong xi shu ju ku 	東西數據庫	c=1 d=0.367879 t=1909
+dou 	都	c=5 d=1.88147 t=1909
+dou shi 	都是	c=2 d=0.704688 t=1909
+dou you 	都有	c=1 d=0.748264 t=1909
+du liang 	度量	c=1 d=0.748264 t=1909
+du qu 	讀取	c=4 d=1.20804 t=1909
+duan 	段	c=3 d=0.774916 t=1909
+duan hou 	段後	c=1 d=0.782705 t=1909
+duan hua 	段話	c=1 d=0.0652193 t=1909
+duan hua 	短話	c=1 d=0.0617291 t=1909
+duan luo 	段落	c=5 d=2.49576 t=1909
+dui 	對	c=3 d=0.650002 t=1909
+dui le 	對了	c=1 d=0.126818 t=1909
+dui qi 	對齊	c=1 d=0.594521 t=1909
+dui ying 	對應	c=2 d=0.468501 t=1909
+dun 	頓	c=1 d=0.99005 t=1909
+duo 	多	c=1 d=0.0977834 t=1909
+duo ge 	多個	c=1 d=0.612626 t=1909
+duo jiao 	多叫	c=1 d=0.97531 t=1909
+duo shao 	多少	c=1 d=0.412714 t=1909
+e 	呃	c=1 d=0.090718 t=1909
+e 	額	c=1 d=0.71177 t=1909
+e gao 	惡搞	c=0 d=0.00632918 t=1909
+er qie 	而且	c=3 d=1.26842 t=1909
+fa 	法	c=1 d=0.467666 t=1909
+fa 	發	c=2 d=1.31199 t=1909
+fa xian 	發現	c=2 d=1.24497 t=1909
+fan hui 	返回	c=1 d=0.185444 t=1909
+fan yi 	翻譯	c=6 d=2.70586 t=1909
+fan yi cheng 	翻譯成	c=1 d=0.0531307 t=1909
+fang da 	放大	c=1 d=0.0761538 t=1909
+fang dao 	放到	c=2 d=1.20375 t=1909
+fang fa 	方法	c=2 d=0.127347 t=1909
+fang zai 	放在	c=1 d=0.810584 t=1909
+fei kong 	非空	c=1 d=0.154124 t=1909
+fen 	分	c=1 d=0.951229 t=1909
+fen bie 	分別	c=1 d=0.179066 t=1909
+fen lei hao 	分類號	c=2 d=0.699048 t=1909
+fen wei 	分爲	c=1 d=0.0720785 t=1909
+feng jia 	逢假	c=1 d=0.263158 t=1909
+feng mian 	封面	c=4 d=1.74173 t=1909
+feng ping 	風評	c=1 d=0.187308 t=1909
+feng xian 	風險	c=1 d=0.193013 t=1909
+fou 	否	c=1 d=0.45612 t=1909
+fu hao 	符號	c=1 d=0.150318 t=1909
+fu li 	福利	c=1 d=0.293758 t=1909
+fu wu qi 	服務器	c=1 d=0.869358 t=1909
+fu zhi 	複製	c=1 d=0.447088 t=1909
+gai cheng 	改成	c=1 d=0.494109 t=1909
+gan 	幹	c=1 d=0.440432 t=1909
+gan jue 	感覺	c=3 d=1.14108 t=1909
+gang hao 	剛好	c=1 d=0.209088 t=1909
+gao 	搞	c=2 d=0.634305 t=1909
+gao le 	搞了	c=1 d=0.400517 t=1909
+ge 	個	c=2 d=0.511334 t=1909
+ge 	哥	c=2 d=0.403876 t=1909
+ge shi 	格式	c=1 d=0.559898 t=1909
+gei 	給	c=3 d=1.76633 t=1909
+gei ni 	給你	c=1 d=0.810584 t=1909
+gen sui 	跟隨	c=2 d=1.64858 t=1909
+gen zhe 	跟着	c=1 d=0.15259 t=1909
+gong cheng 	工程	c=9 d=2.76572 t=1909
+gong ju 	工具	c=1 d=0.453845 t=1909
+gong neng 	功能	c=1 d=0.755784 t=1909
+gong si 	公司	c=7 d=2.35658 t=1909
+gong wei 	工位	c=1 d=0.729789 t=1909
+gu ge 	谷歌	c=1 d=0.336216 t=1909
+gu gong 	故宮	c=1 d=0.511709 t=1909
+gu shi 	故事	c=1 d=0.680451 t=1909
+gua 	掛	c=1 d=0.0742736 t=1909
+guan bi 	關閉	c=1 d=1 t=1909
+guan dian 	觀點	c=3 d=0.184434 t=1909
+guan jian ci 	關鍵詞	c=2 d=0.126985 t=1909
+guan yu 	關於	c=1 d=0.970446 t=1909
+gui ding 	規定	c=1 d=0.398519 t=1909
+gui ze 	規則	c=1 d=0.579842 t=1909
+guo 	過	c=1 d=0.118245 t=1909
+guo chan 	國產	c=1 d=0.551563 t=1909
+ha 	哈	c=0 d=0.0373439 t=1909
+ha ha ha 	哈哈哈	c=3 d=1.78051 t=1909
+ha ha ha ha 	哈哈哈哈	c=1 d=0.814647 t=1909
+hai 	海	c=2 d=0.887979 t=1909
+hai bao 	海報	c=1 d=0.737123 t=1909
+hai mei 	還沒	c=1 d=0.66365 t=1909
+hai nan 	海南	c=8 d=2.90096 t=1909
+hai shi 	還是	c=3 d=1.20735 t=1909
+hai you 	還有	c=3 d=0.856415 t=1909
+han jie 	焊接	c=1 d=0.341298 t=1909
+han shu 	函數	c=5 d=2.60949 t=1909
+hang 	行	c=4 d=2.79504 t=1909
+hang ju 	行距	c=1 d=0.470011 t=1909
+hang ye 	行業	c=1 d=0.373439 t=1909
+hao 	好	c=9 d=2.67904 t=1909
+hao 	號	c=2 d=0.696733 t=1909
+hao ba 	好吧	c=2 d=0.774916 t=1909
+hao de 	好的	c=1 d=0.995012 t=1909
+hao jia huo 	好傢伙	c=1 d=0.489192 t=1909
+hao xiang 	好像	c=5 d=0.727377 t=1909
+he 	合	c=1 d=0.228779 t=1909
+he 	和	c=11 d=1.52377 t=1909
+he 	核	c=1 d=0.170333 t=1909
+he 	河	c=1 d=0.532592 t=1909
+hen 	很	c=2 d=0.571209 t=1909
+hen duo 	很多	c=1 d=0.268474 t=1909
+hen gao 	很高	c=1 d=0.839457 t=1909
+hen hao 	很好	c=2 d=0.891366 t=1909
+hen qiang 	很強	c=1 d=0.255381 t=1909
+hong yan 	鴻雁	c=1 d=0.666977 t=1909
+hou 	後	c=1 d=0.310367 t=1909
+hou mian 	後面	c=3 d=1.91685 t=1909
+hou tai 	後臺	c=2 d=1.43787 t=1909
+hua 	化	c=1 d=0.562705 t=1909
+hua 	話	c=3 d=0.185629 t=1909
+huan 	換	c=1 d=0.0913931 t=1909
+huan chu 	喚出	c=1 d=0.718924 t=1909
+hui 	會	c=7 d=2.59389 t=1909
+hui 	輝	c=0 d=0.0267135 t=1909
+ji 	及	c=0 d=0.0369723 t=1909
+ji ben 	基本	c=3 d=0.99005 t=1909
+ji cun qi 	寄存器	c=5 d=0.748264 t=1909
+ji de 	記得	c=1 d=0.970446 t=1909
+ji di qu 	及地區	c=1 d=0.371577 t=1909
+ji diao 	基調	c=1 d=0.373439 t=1909
+ji ge 	幾個	c=2 d=0.980199 t=1909
+ji hua 	計劃	c=1 d=0.628135 t=1909
+ji jing 	幾經	c=1 d=0.763379 t=1909
+ji lu 	記錄	c=3 d=1.97675 t=1909
+ji ou 	奇偶	c=0 d=0.0694197 t=1909
+ji ou ca shi ni de 	奇偶擦拭你的	c=1 d=0.697676 t=1909
+ji qi 	機器	c=2 d=0.629449 t=1909
+ji san di 	集散地	c=0 d=0.0373439 t=1909
+ji san di ha 	集散地哈	c=1 d=0.375311 t=1909
+ji shu 	技術	c=1 d=0.548812 t=1909
+ji xu 	繼續	c=1 d=0.511709 t=1909
+ji yi 	記憶	c=1 d=0.980199 t=1909
+jia 	加	c=3 d=1.84163 t=1909
+jia 	家	c=1 d=0.201897 t=1909
+jia ban 	加班	c=1 d=0.329559 t=1909
+jia shang 	加上	c=1 d=0.172045 t=1909
+jia zai 	加載	c=1 d=0.585669 t=1909
+jian cao ping 	尖草坪	c=0 d=0.0697676 t=1909
+jian cao ping shang dian 	尖草坪商店	c=1 d=0.701173 t=1909
+jian ce 	檢測	c=2 d=0.188051 t=1909
+jian cha 	檢查	c=1 d=0.680451 t=1909
+jian dan 	簡單	c=1 d=0.535261 t=1909
+jian jie 	簡介	c=1 d=0.814647 t=1909
+jian jie 	簡潔	c=1 d=0.818731 t=1909
+jian ju 	間距	c=1 d=0.83527 t=1909
+jian qie ban 	剪切板	c=1 d=0.319819 t=1909
+jiang 	將	c=4 d=1.73132 t=1909
+jiao 	角	c=3 d=1.94292 t=1909
+jiao ao 	驕傲	c=0 d=0.0369723 t=1909
+jiao cheng 	教程	c=2 d=0.245367 t=1909
+jiao shi 	教師	c=1 d=0.267135 t=1909
+jiao shou 	教授	c=2 d=0.632222 t=1909
+jie 	截	c=1 d=0.0497871 t=1909
+jie 	解	c=2 d=0.537944 t=1909
+jie guo 	結果	c=2 d=0.351783 t=1909
+jie jue 	解決	c=4 d=2.16928 t=1909
+jie mian 	界面	c=2 d=0.985112 t=1909
+jie shao 	介紹	c=3 d=1.03985 t=1909
+jin 	進	c=2 d=0.622446 t=1909
+jin guo 	進過	c=1 d=0.802519 t=1909
+jin nian 	今年	c=1 d=0.12493 t=1909
+jin tian 	今天	c=1 d=0.701173 t=1909
+jin xing 	進行	c=4 d=0.726653 t=1909
+jin zhi 	進制	c=1 d=0.913931 t=1909
+jing 	景	c=2 d=0.386139 t=1909
+jing jian 	精簡	c=4 d=0.304667 t=1909
+jing jian ban 	精簡版	c=1 d=0.106459 t=1909
+jing li 	經歷	c=1 d=0.937067 t=1909
+jing ran 	竟然	c=1 d=0.763379 t=1909
+jing xiang 	鏡像	c=1 d=0.588605 t=1909
+jiu 	就	c=8 d=1.05936 t=1909
+jiu ou po 	就歐泊	c=1 d=0.869358 t=1909
+jiu shi 	就是	c=14 d=3.55939 t=1909
+jiu yong 	就用	c=1 d=0.0492917 t=1909
+jiu zhi 	救治	c=2 d=0.98823 t=1909
+ju 	據	c=0 d=0.0856415 t=1909
+ju 	距	c=1 d=0.474734 t=1909
+ju ci 	據此	c=0 d=0.0847894 t=1909
+ju ci ou shi da an 	據此歐式答案	c=1 d=0.852144 t=1909
+ju hui 	聚會	c=1 d=0.535261 t=1909
+ju ou zhou 	據歐洲	c=1 d=0.860708 t=1909
+ju ran 	居然	c=1 d=0.900325 t=1909
+ju ti 	具體	c=2 d=1.16277 t=1909
+ju you 	具有	c=1 d=0.83527 t=1909
+ju zhong 	居中	c=3 d=1.75674 t=1909
+jue ding 	決定	c=1 d=0.366045 t=1909
+jue xing 	覺醒	c=1 d=0.444858 t=1909
+ka zhu 	卡住	c=2 d=0.767206 t=1909
+kai tou 	開頭	c=1 d=0.151072 t=1909
+kan 	看	c=4 d=1.13208 t=1909
+kan kan 	看看	c=1 d=0.606531 t=1909
+kan le xia 	看了下	c=1 d=0.212248 t=1909
+kan qi lai 	看起來	c=1 d=0.25284 t=1909
+ke 	可	c=2 d=1.15441 t=1909
+ke neng 	可能	c=1 d=0.345348 t=1909
+ke neng ne ge 	可能呢個	c=1 d=0.522046 t=1909
+ke yi 	可以	c=16 d=4.41278 t=1909
+kong 	空	c=1 d=0.463013 t=1909
+kong ge 	空格	c=1 d=0.744532 t=1909
+kuai 	快	c=1 d=0.895834 t=1909
+lai 	來	c=2 d=1.07337 t=1909
+lan 	欄	c=1 d=0.486752 t=1909
+lan ya 	藍牙	c=1 d=0.128093 t=1909
+lao ban ben 	老版本	c=1 d=0.752014 t=1909
+lao shi 	老師	c=1 d=0.540641 t=1909
+le 	了	c=28 d=4.41036 t=1909
+li 	裏	c=0 d=0.0995012 t=1909
+li nu xing 	裏奴性	c=2 d=1 t=1909
+li yong 	利用	c=0 d=0.0822835 t=1909
+lian xu 	連續	c=1 d=0.932394 t=1909
+liang ge 	兩個	c=5 d=0.769055 t=1909
+liang zhong 	兩種	c=1 d=0.180866 t=1909
+liao 	聊	c=2 d=0.947245 t=1909
+lin shi 	臨時	c=1 d=0.755784 t=1909
+ling 	令	c=1 d=0.101774 t=1909
+liu 	留	c=1 d=0.181772 t=1909
+lun tan 	論壇	c=1 d=0.666977 t=1909
+lun wen 	論文	c=9 d=3.53313 t=1909
+luo 	落	c=1 d=0.826959 t=1909
+luo ji 	邏輯	c=1 d=0.0572688 t=1909
+ma 	嗎	c=7 d=2.03278 t=1909
+ma fan 	麻煩	c=1 d=0.99005 t=1909
+ma ke 	馬克	c=1 d=0.873716 t=1909
+mai bo 	脈搏	c=2 d=0.683861 t=1909
+me 	麼	c=2 d=0.969083 t=1909
+mei 	沒	c=3 d=1.45908 t=1909
+mei ge 	每個	c=1 d=0.625002 t=1909
+mei hua 	梅花	c=1 d=0.516851 t=1909
+mei le 	沒了	c=2 d=1.84626 t=1909
+mei ren 	沒人	c=1 d=0.806541 t=1909
+mei yi tian 	每一天	c=1 d=0.506617 t=1909
+mei you 	沒有	c=7 d=1.53564 t=1909
+mei yu 	梅雨	c=0 d=0.0163654 t=1909
+mei yu ou 	梅雨偶	c=1 d=0.164474 t=1909
+mei yuan 	美元	c=1 d=0.149569 t=1909
+men 	們	c=4 d=1.33658 t=1909
+men 	門	c=2 d=1.2226 t=1909
+meng 	夢	c=1 d=0.101266 t=1909
+meng 	懵	c=1 d=0.782705 t=1909
+mi ji 	密級	c=2 d=0.700226 t=1909
+mi le lu 	迷了路	c=1 d=0.496585 t=1909
+mian 	麪	c=1 d=0.351692 t=1909
+mian xiang 	面向	c=1 d=0.249075 t=1909
+ming cheng 	名稱	c=1 d=0.666977 t=1909
+ming ling 	命令	c=1 d=0.951229 t=1909
+ming ti 	命題	c=2 d=0.264669 t=1909
+ming tian 	明天	c=6 d=2.84643 t=1909
+ming yue 	明月	c=1 d=0.718924 t=1909
+mo ban 	模板	c=5 d=2.07858 t=1909
+mo kuai 	模塊	c=1 d=0.255381 t=1909
+mo ni 	模擬	c=1 d=0.367879 t=1909
+mou 	某	c=2 d=0.63406 t=1909
+na 	那	c=1 d=0.603506 t=1909
+na bian 	那邊	c=1 d=0.167797 t=1909
+na ceng 	那層	c=1 d=0.416862 t=1909
+na ge 	那個	c=1 d=0.474549 t=1909
+na ji zhong 	哪幾種	c=1 d=0.0658748 t=1909
+na jiu 	那就	c=0 d=0.0240508 t=1909
+na jiu diao cha xian shi de 	那就調查顯示的	c=1 d=0.241714 t=1909
+na ke yi 	那可以	c=1 d=0.600496 t=1909
+na ning 	那寧	c=1 d=0.951229 t=1909
+na ren 	那人	c=1 d=0.477114 t=1909
+na wei 	那位	c=1 d=0.715338 t=1909
+na wo 	拿我	c=1 d=0.147342 t=1909
+na zhang 	那張	c=1 d=0.447088 t=1909
+nan chang 	南昌	c=1 d=0.895834 t=1909
+nan qiang 	南牆	c=1 d=0.843665 t=1909
+ne 	呢	c=5 d=1.9302 t=1909
+ne ge 	呢個	c=0 d=0.0519442 t=1909
+nei 	內	c=1 d=0.540641 t=1909
+nei bu 	內部	c=1 d=0.726149 t=1909
+nei cun 	內存	c=3 d=1.17254 t=1909
+nei he 	內核	c=2 d=0.198533 t=1909
+nei rong 	內容	c=2 d=1.10078 t=1909
+neng 	能	c=1 d=0.180866 t=1909
+neng bu 	能不	c=1 d=0.650509 t=1909
+ni 	你	c=17 d=4.3562 t=1909
+ni de 	你的	c=0 d=0.0694197 t=1909
+ni hao 	你好	c=2 d=1.71534 t=1909
+ni me 	你麼	c=1 d=0.213312 t=1909
+ni men 	你們	c=4 d=0.615697 t=1909
+ni sa 	你撒	c=1 d=0.384812 t=1909
+ni wen 	你問	c=1 d=0.856415 t=1909
+ni zuo hao 	你做好	c=1 d=0.733447 t=1909
+nian 	年	c=4 d=1.65222 t=1909
+nian jia 	年假	c=1 d=0.315058 t=1909
+nin 	您	c=1 d=0.955997 t=1909
+nong 	弄	c=1 d=0.522046 t=1909
+nong hao 	弄好	c=1 d=0.412714 t=1909
+nu xing 	奴性	c=0 d=0.0995012 t=1909
+o 	哦	c=1 d=0.704688 t=1909
+ou 	偶	c=0 d=0.0163654 t=1909
+ou feng 	歐風	c=1 d=0.357007 t=1909
+ou niao 	鷗鳥	c=0 d=0.0822835 t=1909
+ou niao li yong 	鷗鳥利用	c=1 d=0.826959 t=1909
+ou po 	歐泊	c=0 d=0.0865022 t=1909
+ou shi 	歐式	c=0 d=0.0847894 t=1909
+ou zhou 	歐洲	c=0 d=0.0856415 t=1909
+pai 	派	c=1 d=0.66365 t=1909
+pai ban 	排版	c=1 d=0.232236 t=1909
+pai xu 	排序	c=1 d=0.0578443 t=1909
+pei yang 	培養	c=2 d=0.637464 t=1909
+pei zhi 	配置	c=3 d=1.64606 t=1909
+pi fu 	皮膚	c=2 d=1.94575 t=1909
+pi pei 	匹配	c=2 d=0.831104 t=1909
+pi shi nu 	毗溼奴	c=1 d=0.856415 t=1909
+pian 	片	c=1 d=0.806541 t=1909
+pian duan 	片段	c=1 d=0.683861 t=1909
+pian shang 	偏上	c=0 d=0.025284 t=1909
+pian shang 	片上	c=1 d=0.256661 t=1909
+pian shang tiao shi 	偏上調試	c=1 d=0.254107 t=1909
+pian zuo 	偏左	c=1 d=0.904837 t=1909
+pin jie 	拼接	c=1 d=0.524663 t=1909
+pin yin 	拼音	c=2 d=0.752722 t=1909
+ping 	平	c=1 d=0.343009 t=1909
+ping ti 	平替	c=1 d=0.344728 t=1909
+po 	破	c=1 d=0.873716 t=1909
+po chan 	破產	c=0 d=0.0843665 t=1909
+po chan sa dan 	破產撒旦	c=1 d=0.847894 t=1909
+qi 	器	c=1 d=0.729789 t=1909
+qi shi 	其實	c=1 d=0.697676 t=1909
+qian 	前	c=1 d=0.778801 t=1909
+qian 	簽	c=1 d=0.19398 t=1909
+qian ming 	簽名	c=1 d=0.882497 t=1909
+qian nian 	前年	c=2 d=0.67032 t=1909
+qiang 	搶	c=1 d=1 t=1909
+qiang da 	強大	c=1 d=0.427415 t=1909
+qiang piao 	強票	c=1 d=0.995012 t=1909
+qie huan 	切換	c=0 d=0.0704688 t=1909
+qie huan zi ti 	切換字體	c=1 d=0.70822 t=1909
+qin shi 	寢室	c=1 d=0.442639 t=1909
+qing 	請	c=1 d=0.810584 t=1909
+qing chu 	清楚	c=1 d=0.574072 t=1909
+qing chu 	清除	c=1 d=0.092089 t=1909
+qing kong 	清空	c=1 d=0.161218 t=1909
+qing kuang 	情況	c=2 d=0.647265 t=1909
+qing ming 	清明	c=3 d=1.57139 t=1909
+qing ni 	請你	c=1 d=0.0507928 t=1909
+qiu zhi 	求值	c=4 d=0.951229 t=1909
+qiu zhi 	求職	c=1 d=0.946485 t=1909
+qu 	去	c=8 d=1.79148 t=1909
+qu 	取	c=6 d=1.23806 t=1909
+qu nian 	去年	c=3 d=0.932394 t=1909
+quan 	全	c=0 d=0.00502874 t=1909
+quan ju 	全局	c=1 d=0.554327 t=1909
+quan shi 	全是	c=1 d=0.045275 t=1909
+quan wen zi 	全文字	c=1 d=0.0505395 t=1909
+que shi 	確實	c=2 d=0.736379 t=1909
+ran hou 	然後	c=5 d=1.2977 t=1909
+rang 	讓	c=1 d=0.499074 t=1909
+ren 	人	c=3 d=0.985112 t=1909
+ren jun bu jin 	忍俊不禁	c=1 d=0.767206 t=1909
+ren sheng 	人生	c=2 d=1.02086 t=1909
+ren ti 	人體	c=1 d=0.120633 t=1909
+ren wu 	任務	c=2 d=1.27211 t=1909
+ren yuan 	人員	c=1 d=0.729789 t=1909
+ri 	日	c=1 d=0.873716 t=1909
+ri qi 	日期	c=3 d=2.02428 t=1909
+ru guo 	如果	c=2 d=1.57966 t=1909
+ru he 	如何	c=10 d=4.16798 t=1909
+ruan jian 	軟件	c=4 d=1.52477 t=1909
+rui si xin ke 	睿思芯科	c=4 d=1.22979 t=1909
+sa 	撒	c=1 d=0.843665 t=1909
+sa dan 	撒旦	c=0 d=0.0843665 t=1909
+san 	三	c=1 d=0.0724398 t=1909
+san fang 	三方	c=1 d=0.194952 t=1909
+san ge 	三個	c=1 d=0.138069 t=1909
+san hao 	三號	c=1 d=0.408608 t=1909
+san tian 	三天	c=1 d=0.794534 t=1909
+san zhuang 	散裝	c=1 d=0.532592 t=1909
+sha 	啥	c=3 d=0.860708 t=1909
+shan chu 	刪除	c=2 d=0.818731 t=1909
+shang 	上	c=14 d=3.26338 t=1909
+shang ban 	上班	c=2 d=0.722527 t=1909
+shang ci 	上次	c=1 d=0.162026 t=1909
+shang dian 	商店	c=3 d=0.588605 t=1909
+shang mian 	上面	c=1 d=0.414783 t=1909
+she 	設	c=1 d=0.83527 t=1909
+she ji 	設計	c=2 d=0.518487 t=1909
+she zhi 	設置	c=17 d=6.44395 t=1909
+shen du 	深度	c=2 d=0.96937 t=1909
+shen me 	什麼	c=4 d=1.33916 t=1909
+sheng 	生	c=2 d=0.594521 t=1909
+sheng cheng 	生成	c=2 d=1.54899 t=1909
+sheng lve hao 	省略號	c=1 d=0.946485 t=1909
+sheng ming 	聲明	c=2 d=1.62362 t=1909
+sheng xiao 	生效	c=1 d=0.965605 t=1909
+shi 	事	c=1 d=0.913931 t=1909
+shi 	是	c=22 d=5.53049 t=1909
+shi bie 	識別	c=4 d=0.691703 t=1909
+shi chang 	時長	c=1 d=0.637628 t=1909
+shi de 	使得	c=1 d=0.474734 t=1909
+shi de 	是的	c=2 d=0.22313 t=1909
+shi duo nian 	十多年	c=1 d=0.2334 t=1909
+shi hou 	時候	c=1 d=0.97531 t=1909
+shi li 	實力	c=1 d=0.254107 t=1909
+shi xi 	實習	c=1 d=0.173774 t=1909
+shi xian 	實現	c=1 d=0.298197 t=1909
+shi xiong 	師兄	c=7 d=1.23951 t=1909
+shi yong 	使用	c=17 d=3.62012 t=1909
+shi zhe 	試着	c=1 d=0.970446 t=1909
+shou hang 	首航	c=0 d=0.0396531 t=1909
+shou hang 	首行	c=1 d=0.402524 t=1909
+shou hang shuo ju 	首航說句	c=1 d=0.398519 t=1909
+shou shang 	手上	c=1 d=0.18452 t=1909
+shu ju ku 	數據庫	c=0 d=0.0366045 t=1909
+shu ru 	輸入	c=2 d=1.03486 t=1909
+shu ru fa 	輸入法	c=7 d=3.65055 t=1909
+shu zu 	數組	c=1 d=0.349938 t=1909
+shuang ji 	雙擊	c=1 d=0.71177 t=1909
+shui 	誰	c=3 d=0.938491 t=1909
+shuo 	說	c=3 d=1.3437 t=1909
+shuo de hao 	說得好	c=0 d=0.0369723 t=1909
+shuo de hao jiao ao 	說得好驕傲	c=1 d=0.371577 t=1909
+shuo ju 	說句	c=0 d=0.0396531 t=1909
+shuo shi 	碩士	c=4 d=2.3189 t=1909
+shuo yi 	說一	c=1 d=0.0471227 t=1909
+song 	宋	c=2 d=1.16842 t=1909
+song li 	送禮	c=0 d=0.0484325 t=1909
+suo jin 	縮進	c=1 d=0.404542 t=1909
+suo yi 	所以	c=2 d=0.23845 t=1909
+suo zai 	所在	c=1 d=0.218712 t=1909
+tai 	太	c=1 d=0.985112 t=1909
+tai hao le 	太好了	c=1 d=0.15259 t=1909
+tan suo 	探索	c=1 d=0.767206 t=1909
+tao lun 	討論	c=1 d=0.814647 t=1909
+teng 	騰	c=1 d=0.831104 t=1909
+ti 	體	c=1 d=0.524663 t=1909
+ti dao le 	提到了	c=1 d=0.0655462 t=1909
+ti huan 	替換	c=1 d=0.193013 t=1909
+ti jiao 	提交	c=2 d=0.778801 t=1909
+ti qu 	提取	c=1 d=0.0550232 t=1909
+tian 	天	c=1 d=0.621885 t=1909
+tiao 	跳	c=1 d=0.392586 t=1909
+tiao li 	調理	c=1 d=0.0702988 t=1909
+tiao shi 	調試	c=1 d=0.654907 t=1909
+ting shuo 	聽說	c=2 d=0.519322 t=1909
+ting wen 	聽聞	c=1 d=0.283654 t=1909
+tong 	同	c=1 d=0.279431 t=1909
+tong guo 	通過	c=1 d=0.360595 t=1909
+tong xin 	通信	c=8 d=1.865 t=1909
+tu 	圖	c=2 d=0.886955 t=1909
+tu le 	圖了	c=1 d=0.0500366 t=1909
+tu pian 	圖片	c=4 d=2.90074 t=1909
+tu pian le 	圖片了	c=1 d=0.449329 t=1909
+tu xiang 	圖像	c=1 d=0.843665 t=1909
+tu xing 	圖形	c=2 d=1.71292 t=1909
+tui chu 	退出	c=1 d=0.697676 t=1909
+tui song 	推送	c=1 d=0.0963276 t=1909
+tuo li 	脫離	c=1 d=0.348192 t=1909
+tuo pan 	托盤	c=2 d=1.32789 t=1909
+wai guan 	外觀	c=1 d=0.826959 t=1909
+wai mian 	外面	c=1 d=0.398519 t=1909
+wan cheng 	完成	c=3 d=1.65079 t=1909
+wan quan 	完全	c=1 d=0.346456 t=1909
+wang jie 	往屆	c=1 d=0.145148 t=1909
+wei 	位	c=1 d=0.600496 t=1909
+wei 	爲	c=7 d=3.05399 t=1909
+wei dian zi 	微電子	c=1 d=0.362402 t=1909
+wei sha 	爲啥	c=2 d=1.51584 t=1909
+wei shen me 	爲什麼	c=3 d=0.957762 t=1909
+wei xin 	微信	c=7 d=3.46206 t=1909
+wei yu 	位於	c=1 d=0.379083 t=1909
+wen 	問	c=1 d=0.873716 t=1909
+wen 	文	c=5 d=0.965605 t=1909
+wen ben kuang 	文本框	c=1 d=0.418952 t=1909
+wen dang 	文檔	c=1 d=0.650509 t=1909
+wen ding 	穩定	c=1 d=0.421052 t=1909
+wen jian 	文件	c=3 d=1.09781 t=1909
+wen le 	問了	c=1 d=0.463013 t=1909
+wen ti 	問題	c=3 d=1.40683 t=1909
+wen zi 	文字	c=2 d=0.105006 t=1909
+wo 	我	c=50 d=9.01135 t=1909
+wo er ma 	沃爾瑪	c=0 d=0.0477114 t=1909
+wo er ma ban 	沃爾瑪辦	c=1 d=0.479505 t=1909
+wo me 	我麼	c=1 d=0.433874 t=1909
+wo men 	我們	c=14 d=5.97157 t=1909
+wo men ba 	我們把	c=1 d=0.460704 t=1909
+wo pa 	我怕	c=1 d=0.980199 t=1909
+wo pa ma 	我怕嗎	c=1 d=0.465334 t=1909
+wo ye 	我也	c=1 d=0.506617 t=1909
+wu 	吳	c=1 d=0.472367 t=1909
+wu 	無	c=1 d=0.331211 t=1909
+wu ge 	五個	c=2 d=0.114607 t=1909
+wu nai 	無奈	c=1 d=0.694197 t=1909
+wu song 	霧凇	c=1 d=0.697676 t=1909
+xi an 	西安	c=1 d=0.260621 t=1909
+xi an shu ju ku 	西安數據庫	c=1 d=0.238115 t=1909
+xi an song 	西安宋	c=1 d=0.491644 t=1909
+xi an song li 	西安送禮	c=1 d=0.486752 t=1909
+xi tong 	系統	c=4 d=1.1745 t=1909
+xia 	下	c=3 d=0.951993 t=1909
+xia lai 	下來	c=1 d=0.182684 t=1909
+xia tu 	下圖	c=1 d=0.941765 t=1909
+xia zai 	下載	c=4 d=1.86573 t=1909
+xian 	線	c=1 d=0.392586 t=1909
+xian mu 	羨慕	c=2 d=0.726149 t=1909
+xian shi 	顯示	c=1 d=0.909373 t=1909
+xian zai 	現在	c=15 d=3.01659 t=1909
+xiang 	像	c=1 d=0.122456 t=1909
+xiang 	想	c=2 d=0.822835 t=1909
+xiang ge 	祥哥	c=1 d=0.384812 t=1909
+xiang guan 	相關	c=1 d=0.571209 t=1909
+xiang mu 	項目	c=1 d=0.178173 t=1909
+xiao 	小	c=1 d=0.57695 t=1909
+xiao 	笑	c=1 d=0.900325 t=1909
+xiao ao 	笑傲	c=0 d=0.0238115 t=1909
+xiao ao shang 	笑傲上	c=1 d=0.239309 t=1909
+xiao zhao 	校招	c=1 d=0.451581 t=1909
+xie yi 	協議	c=0 d=0.0128093 t=1909
+xie yi zhan 	協議棧	c=1 d=0.128735 t=1909
+xie zai 	卸載	c=1 d=0.960789 t=1909
+xin 	新	c=2 d=0.774916 t=1909
+xin 	芯	c=7 d=1.78252 t=1909
+xin gui 	新規	c=1 d=0.621885 t=1909
+xin hao 	信號	c=1 d=0.121238 t=1909
+xin jian 	新建	c=1 d=0.980199 t=1909
+xin jian a si o 	新建阿斯哦	c=1 d=0.494109 t=1909
+xin pian 	芯片	c=2 d=0.904837 t=1909
+xin qing 	心情	c=3 d=1.4486 t=1909
+xin tiao 	心跳	c=2 d=0.677057 t=1909
+xin xi 	信息	c=10 d=2.73806 t=1909
+xing 	性	c=2 d=1.23123 t=1909
+xing 	行	c=1 d=0.491644 t=1909
+xing huo 	星火	c=3 d=1.24309 t=1909
+xing ming 	姓名	c=3 d=0.942655 t=1909
+xu duo 	許多	c=1 d=0.634448 t=1909
+xu hao 	序號	c=1 d=0.548812 t=1909
+xu ni 	虛擬	c=1 d=0.565525 t=1909
+xu ni ji 	虛擬機	c=2 d=0.212439 t=1909
+xu yao 	需要	c=2 d=1.1351 t=1909
+xue 	學	c=1 d=0.752014 t=1909
+xue hao 	學號	c=1 d=0.390628 t=1909
+xue ke 	學科	c=2 d=0.684565 t=1909
+xue mai 	血脈	c=1 d=0.451581 t=1909
+xue wei 	學位	c=3 d=1.73002 t=1909
+xue xi 	學習	c=4 d=1.29992 t=1909
+xue xiao 	學校	c=2 d=0.555111 t=1909
+xue yuan 	學院	c=6 d=2.95421 t=1909
+xun 	訊	c=1 d=0.83527 t=1909
+xun lian 	訓練	c=1 d=0.99005 t=1909
+yan chang hui 	演唱會	c=1 d=0.927743 t=1909
+yan ge 	嚴格	c=2 d=1.00912 t=1909
+yan zheng 	驗證	c=1 d=0.449329 t=1909
+yang 	樣	c=2 d=0.745129 t=1909
+yang shi 	樣式	c=5 d=2.9592 t=1909
+yao 	要	c=7 d=3.68819 t=1909
+yao shi 	要是	c=1 d=0.410656 t=1909
+ye 	也	c=6 d=1.73284 t=1909
+ye ke yi 	也可以	c=2 d=0.532592 t=1909
+ye mian 	頁面	c=4 d=1.98226 t=1909
+ye shi 	也是	c=3 d=1.18761 t=1909
+ye xu 	也許	c=1 d=0.427415 t=1909
+yi 	一	c=3 d=0.981845 t=1909
+yi 	以	c=1 d=0.109154 t=1909
+yi ban 	一般	c=1 d=0.40657 t=1909
+yi bei 	一倍	c=1 d=0.0765355 t=1909
+yi e gao 	一惡搞	c=1 d=0.063609 t=1909
+yi ge 	一個	c=11 d=2.35792 t=1909
+yi hang 	一行	c=2 d=1.13596 t=1909
+yi jie 	一屆	c=1 d=0.278037 t=1909
+yi jing 	已經	c=2 d=0.790571 t=1909
+yi lai 	以來	c=1 d=0.08291 t=1909
+yi nian 	一年	c=1 d=0.308819 t=1909
+yi sheng 	一生	c=1 d=0.790571 t=1909
+yi sheng yi 	一生一	c=1 d=0.927743 t=1909
+yi si 	意思	c=2 d=0.789565 t=1909
+yi tian 	一天	c=1 d=0.402524 t=1909
+yi xia 	一下	c=1 d=1.06799 t=1909
+yi zhi 	一直	c=1 d=0.782705 t=1909
+yin ru 	引入	c=1 d=0.607273 t=1909
+yin ru you 	引入有	c=1 d=0.559898 t=1909
+yin wei 	因爲	c=1 d=0.16696 t=1909
+yin yong 	引用	c=2 d=0.34669 t=1909
+ying gai 	應該	c=3 d=0.348886 t=1909
+ying jie 	應屆	c=1 d=0.458406 t=1909
+ying le 	贏了	c=1 d=0.267135 t=1909
+ying li 	盈利	c=1 d=0.349938 t=1909
+ying wen 	英文	c=6 d=1.68602 t=1909
+ying yong 	應用	c=3 d=1.18019 t=1909
+yong 	永	c=1 d=0.634448 t=1909
+yong guo 	用過	c=1 d=0.66365 t=1909
+yong hu 	用戶	c=1 d=0.0939493 t=1909
+yong you 	擁有	c=1 d=0.810584 t=1909
+you 	又	c=1 d=0.680451 t=1909
+you 	右	c=4 d=2.75863 t=1909
+you 	有	c=11 d=1.77425 t=1909
+you dian 	有點	c=2 d=0.909373 t=1909
+you hua 	優化	c=2 d=1.10521 t=1909
+you kong 	有空	c=1 d=0.479505 t=1909
+you mei 	優美	c=1 d=0.690734 t=1909
+you shang jiao 	右上角	c=1 d=0.382893 t=1909
+you shi 	優勢	c=1 d=0.759572 t=1909
+you shi hou 	有時候	c=2 d=1.71081 t=1909
+you you 	又有	c=1 d=0.239309 t=1909
+yu 	與	c=7 d=1.70056 t=1909
+yu dao 	遇到	c=1 d=0.650509 t=1909
+yu fa 	語法	c=1 d=0.40657 t=1909
+yu yan 	語言	c=7 d=2.37524 t=1909
+yuan 	原	c=1 d=0.360595 t=1909
+yuan 	源	c=1 d=0.0850088 t=1909
+yuan 	院	c=1 d=0.298197 t=1909
+yuan cheng 	遠程	c=1 d=0.0972957 t=1909
+yuan chuang 	原創	c=1 d=0.847894 t=1909
+yuan sheng 	原生	c=5 d=2.7124 t=1909
+yuan xi 	院系	c=2 d=0.693222 t=1909
+yuan xing 	原型	c=1 d=0.358796 t=1909
+yue 	月	c=2 d=1.01968 t=1909
+yun 	韻	c=8 d=4.05082 t=1909
+yun xing 	運行	c=1 d=0.677057 t=1909
+za 	咋	c=2 d=1.00196 t=1909
+zai 	在	c=9 d=2.70975 t=1909
+zan shi 	暫時	c=1 d=0.392586 t=1909
+zao shang 	早上	c=2 d=1.00027 t=1909
+zen me 	怎麼	c=8 d=1.61729 t=1909
+zhan 	棧	c=1 d=0.18452 t=1909
+zhang 	張	c=2 d=0.835207 t=1909
+zhang yong 	張永	c=0 d=0.0267135 t=1909
+zhang yong hui 	張永輝	c=2 d=0.629069 t=1909
+zhao bu dao 	找不到	c=2 d=0.891366 t=1909
+zhao dao 	找到	c=1 d=0.873716 t=1909
+zhao peng 	趙鵬	c=11 d=3.89351 t=1909
+zhe 	這	c=31 d=5.36476 t=1909
+zhe bian 	這邊	c=1 d=0.532592 t=1909
+zhe duan 	這段	c=2 d=0.105508 t=1909
+zhe ge 	這個	c=16 d=3.87666 t=1909
+zhe jiu 	這就	c=1 d=0.429557 t=1909
+zhe jiu shi 	這就是	c=1 d=0.634448 t=1909
+zhe li 	這裏	c=1 d=0.160414 t=1909
+zhe me gan 	這麼幹	c=1 d=0.357007 t=1909
+zhe me zao 	這麼早	c=1 d=0.918512 t=1909
+zhe shi 	這事	c=2 d=1.83705 t=1909
+zhe teng 	折騰	c=2 d=1.98012 t=1909
+zhe yang 	這樣	c=6 d=2.31125 t=1909
+zhe yang de 	這樣的	c=1 d=0.327915 t=1909
+zhe yang na ge 	這樣那個	c=1 d=0.486752 t=1909
+zhe zhong 	這種	c=2 d=0.913931 t=1909
+zhen 	真	c=5 d=1.64713 t=1909
+zhen de 	真的	c=3 d=1.03372 t=1909
+zhen hao 	真好	c=1 d=0.715338 t=1909
+zheng 	整	c=2 d=1.54985 t=1909
+zheng shu 	整數	c=2 d=1.71337 t=1909
+zheng ze 	正則	c=4 d=3.34091 t=1909
+zheng ze biao da shi 	正則表達式	c=1 d=0.532592 t=1909
+zhi 	值	c=2 d=0.429869 t=1909
+zhi chi 	支持	c=1 d=0.0992613 t=1909
+zhi dao 	指導	c=1 d=0.265803 t=1909
+zhi dao 	知道	c=3 d=1.07751 t=1909
+zhi ding 	指定	c=2 d=1.1743 t=1909
+zhi duo 	至多	c=1 d=0.527292 t=1909
+zhi hou 	之後	c=2 d=0.950028 t=1909
+zhi ji 	之際	c=1 d=0.644036 t=1909
+zhi jie 	直接	c=8 d=2.60573 t=1909
+zhi jing 	止境	c=1 d=0.332871 t=1909
+zhi ling 	指令	c=1 d=0.965605 t=1909
+zhi nan 	指南	c=2 d=1.99005 t=1909
+zhi neng 	只能	c=2 d=0.366045 t=1909
+zhi qian 	之前	c=1 d=0.937067 t=1909
+zhi ye 	職業	c=2 d=1.08942 t=1909
+zhi you 	只有	c=1 d=0.479505 t=1909
+zhi zuo 	製作	c=3 d=0.846599 t=1909
+zhong 	中	c=21 d=5.90985 t=1909
+zhong duan 	終端	c=1 d=0.909373 t=1909
+zhong wen 	中文	c=4 d=2.07123 t=1909
+zhong ying wen 	中英文	c=2 d=1.86537 t=1909
+zhong yu 	終於	c=1 d=0.410656 t=1909
+zhong zhou 	中州	c=1 d=0.71177 t=1909
+zhong zhou yun 	中州韻	c=2 d=1.65959 t=1909
+zhou 	州	c=6 d=3.55589 t=1909
+zhou jie lun 	周杰倫	c=1 d=0.937067 t=1909
+zhu 	逐	c=1 d=0.100761 t=1909
+zhu ji 	主機	c=1 d=0.0871609 t=1909
+zhu li 	主力	c=1 d=0.177284 t=1909
+zhu yao 	主要	c=1 d=0.546074 t=1909
+zhu ye 	主頁	c=2 d=0.471587 t=1909
+zhuan 	轉	c=1 d=0.444858 t=1909
+zhuan hua 	轉化	c=1 d=0.226502 t=1909
+zhuan huan wei 	轉換爲	c=1 d=0.546074 t=1909
+zhuan men 	專門	c=1 d=0.337902 t=1909
+zhuan ye 	專業	c=3 d=0.960527 t=1909
+zhuang 	裝	c=1 d=0.621885 t=1909
+zhuang le 	撞了	c=1 d=0.839457 t=1909
+zhuang tai 	狀態	c=1 d=0.484325 t=1909
+zhun xun 	準尋	c=1 d=0.382893 t=1909
+zhuo mian 	桌面	c=1 d=0.839457 t=1909
+zi 	字	c=1 d=0.377192 t=1909
+zi chang 	字長	c=1 d=0.386741 t=1909
+zi ding yi 	自定義	c=2 d=1.46301 t=1909
+zi dong 	自動	c=1 d=0.814647 t=1909
+zi dong yi 	自動一	c=1 d=0.946485 t=1909
+zi fu 	字符	c=1 d=0.168498 t=1909
+zi fu chuan 	字符串	c=5 d=1.15105 t=1909
+zi fu huan 	字符換	c=1 d=0.918512 t=1909
+zi guang 	紫光	c=2 d=0.797198 t=1909
+zi ji 	自己	c=5 d=1.88274 t=1909
+zi ti 	字體	c=12 d=5.83722 t=1909
+zi you 	自由	c=1 d=0.718924 t=1909
+zong 	總	c=1 d=0.634448 t=1909
+zong jie 	總結	c=4 d=0.249178 t=1909
+zui di ceng 	最底層	c=1 d=0.423162 t=1909
+zui hao 	最好	c=1 d=0.144424 t=1909
+zui jin 	最近	c=1 d=0.748264 t=1909
+zui zhong 	最終	c=1 d=0.364219 t=1909
+zun xun 	遵循	c=1 d=0.384812 t=1909
+zuo 	做	c=7 d=0.966549 t=1909
+zuo hao 	做好	c=0 d=0.0729789 t=1909
+zuo wei 	作爲	c=1 d=0.0526021 t=1909
+zuo yi xia 	做一下	c=1 d=0.733447 t=1909
+zuo zhe 	作者	c=1 d=0.261846 t=1909

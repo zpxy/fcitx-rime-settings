@@ -1,0 +1,13 @@
+# Rime user dictionary
+#@/db_name	wusong
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	7
+#@/user_id	b4d312a8-44fb-429c-b7a3-9b6b97ef9ed4
+da xiao xie 	大小写	c=1 d=1 t=5
+jian 	键	c=1 d=1 t=6
+qie huan 	切换	c=1 d=1 t=7
+shu ru fa 	输入法	c=1 d=1 t=4
+wo men 	我们	c=1 d=1 t=7
+zhong zhou 	中州	c=1 d=1 t=2
+zhong zhou yun 	中州韵	c=1 d=1 t=3
